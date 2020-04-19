@@ -4,5 +4,5 @@
   <project name="PacMM79/android_device_bq_piccolo" path="device/bq/piccolo" revision="pie" remote="PacMM79"/>
   <project name="PacMM79/android_device_bq_msm8916-common" path="device/bq/msm8916-common" revision="pie" remote="PacMM79"/>
   <project name="PacMM79/android_kernel_bq_msm8939" path="kernel/bq/msm8939" revision="pie" remote="PacMM79"/>
-  <project name="PacMM79/proprietary_vendor_bq" path="vendor/bq" revision="lineage-15.1_new" remote="PacMM79"/>
+  <project name="PacMM79/proprietary_vendor_bq" path="vendor/bq" revision="lineage-16.0" remote="PacMM79"/>
 </manifest>
